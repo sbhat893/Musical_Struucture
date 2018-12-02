@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="first_text_main">Now Playing</string>
+    <string name="second_text_main">All Songs</string>
+    <string name="third_text_main">Playlist</string>
+    <string name="fourth_text_main">Artists</string>
+    <string name="fifth_text_main">About</string>
+    <string name="back">Back</string>
+    <string name="play_list">Currently There Are No Playlists</string>
+    <string name="name_text">App Name</string>
+    <string name="version_text">Version</string>
+    <string name="version">1.0</string>
+</resources>
